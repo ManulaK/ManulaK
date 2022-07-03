@@ -1,4 +1,4 @@
-### Hola, I'am Manu 👋
+### Hola, I'm Manu 👋
 
 - 🔭 I’m currently studying on SLIIT | Sri Lanka Institute of Information Technology
 - 🌱 I’m currently learning BSc Special(Hons) in Information Technology Degree Program
