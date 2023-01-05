@@ -1,10 +1,13 @@
 **<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <i> Manula</i></h1>**
 
+<p align="center" width="100%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!🫂;I'm%20Manula Kavinda😼%20;Software%20Engineering%20Intern👨‍💻;Programmer 🤖;Full%20Stack%20Developer👨🏽‍💻;Open-Source%20Enthusiast🖥️;SLIIT%20Undergraduate%20👨‍🎓;Software%20Engineering%20Intern👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=ff&vCenter=true&size=18" width="100%"></a>
+</p>
 <img align ="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif"> <br/>
 <i>
-✔️ I’m a Third year Software Engineering undergraduate at **Sri Lanka Institute of Information Technology**
+✔️ I’m a Third Year Software Engineering Undergraduate at **Sri Lanka Institute of Information Technology**
 
-✔️ I’m looking to collaborate on **OpenSource Projects**
+✔️ I'm a passionate Full Stack Developer And also an open-source enthusiast and maintainer. <br>I learned a lot from the open-source community and like to collaboration and knowledge sharing<br> happened through open-source.
 
 ✔️ Ask me about **Any thing related to Information Technology,Software Development**
 
@@ -13,12 +16,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manula-%CC%81kavinda-12b687245/"><img src="https://img.shields.io/badge/-Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:badm.kavinda@gmail.com"><img src="https://img.shields.io/badge/-badm.kavinda@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/____mk_______________/"><img src="https://img.shields.io/badge/-____mk_______________-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
+<a href="https://www.instagram.com/____mk_______________/"><img src="https://img.shields.io/badge/-____mk_______________-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/manula.kavinda.5"><img src="https://img.shields.io/badge/-@Manula%20Kavinda-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?color=ff&width=580&height=35&lines=Languages+,+Tools+and+Technologies">
+
 <p align="left">
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width=75>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width=48>
@@ -50,3 +53,13 @@
 <br>
 <hr>
 <br>
+
+```
+ For SLIIT Academic Purposes
+
+ Student ID :IT21019968
+ Student Name : Kavinda B A D M
+```
+
+<br>
+<HR>
