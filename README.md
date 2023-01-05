@@ -39,18 +39,14 @@
 <img src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" width=95>
 </p>
 <hr>
-
+<br>
 <p align="center">
     <a href="https://github.com/ManulaK/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manula's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManulaK&theme=black-ice&hide_border=true&stroke=00FF00&background=#033E3E" width=450/></a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manula's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManulaK&theme=black-ice&hide_border=true&stroke=00FF00&bg_color=0D1117" width=450/></a>
     <a href="https://github.com/ManulaK/github-readme-stats"><img alt="Manula's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManulaK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"width=325/></a>
     <br>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 <br>
 <hr>
-<BR>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManulaK&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<HR>
+<br>
