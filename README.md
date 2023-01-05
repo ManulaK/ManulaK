@@ -1,4 +1,4 @@
-**<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <i> Manula</i></h1>**
+**<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, </h1>**
 
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!🫂;I'm%20Manula%20Kavinda😼%20;Software%20Engineering%20Intern👨‍💻;Programmer🤖;Full%20Stack%20Developer👨🏽‍💻;Open-Source%20Enthusiast🖥️;SLIIT%20Undergraduate%20👨‍🎓;Software%20Engineering%20Intern👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=ff&vCenter=true&size=18" width="100%"></a>
