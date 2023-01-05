@@ -1,11 +1,12 @@
 **<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <i> Manula</i></h1>**
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!🫂;I'm%20Manula Kavinda😼%20;Software%20Engineering%20Intern👨‍💻;Programmer 🤖;Full%20Stack%20Developer👨🏽‍💻;Open-Source%20Enthusiast🖥️;SLIIT%20Undergraduate%20👨‍🎓;Software%20Engineering%20Intern👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=ff&vCenter=true&size=18" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!🫂;I'm%20Manula%20Kavinda😼%20;Software%20Engineering%20Intern👨‍💻;Programmer🤖;Full%20Stack%20Developer👨🏽‍💻;Open-Source%20Enthusiast🖥️;SLIIT%20Undergraduate%20👨‍🎓;Software%20Engineering%20Intern👨‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=ff&vCenter=true&size=18" width="100%"></a>
 </p>
 
 <img align ="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif"> <br/>
 <i>
+
 ✔️ I’m a Third Year Software Engineering Undergraduate at **Sri Lanka Institute of Information Technology**
 
 ✔️ I'm a passionate Full Stack Developer And also an open-source enthusiast and maintainer. <br>I learned a lot from the open-source community and like to collaboration and knowledge sharing<br> happened through open-source.
