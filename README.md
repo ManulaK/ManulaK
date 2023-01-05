@@ -1,4 +1,4 @@
-<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <i> Manula</i></h1>
+**<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <i> Manula</i></h1>**
 
 <img align ="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif"> <br/>
 <i>
@@ -49,3 +49,8 @@
 </p>
 <br>
 <hr>
+<BR>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ManulaK&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<HR>
