@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Manula Kavinda
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      
-- 🎓 **Software Engineering Graduate** from Sri Lanka Institute of Information Technology (SLIIT)
-- 💻 Passionate Full Stack Developer and open-source enthusiast
-- 🤝 I love collaborating, sharing knowledge, and contributing to the open-source community
-- 🚀 Always eager to learn new technologies and best practices
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 2; min-width: 250px;">
+
+-    🎓 **Software Engineering Graduate** from Sri Lanka Institute of Information Technology (SLIIT)
+-    💻 Passionate Full Stack Developer and open-source enthusiast
+-    🤝 I love collaborating, sharing knowledge, and contributing to the open-source community
+-    🚀 Always eager to learn new technologies and best practices
 
 <p>
   <a href="mailto:manulakavinda.dev@gmail.com"><img src="https://img.shields.io/badge/-manulakavinda.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -16,13 +15,11 @@
   </a>
 </p>
 
-    </td>
-    <td align="right" width="35%">
-      <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
-    </td>
-
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1; min-width: 150px; text-align: right;">
+    <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
+  </div>
+</div>
 
 ---
 
