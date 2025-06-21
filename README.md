@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Manula Kavinda
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 2; min-width: 250px;">
+  <div style="flex: 2; min-width: 150px;">
 
 -    🎓 **Software Engineering Graduate** from Sri Lanka Institute of Information Technology (SLIIT)
 -    💻 Passionate Full Stack Developer and open-source enthusiast
