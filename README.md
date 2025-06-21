@@ -1,26 +1,25 @@
 # 👋 Hello, I'm Manula Kavinda
 
-<table width="100%" style="border: 1px solid transparent;">
-<tr>
-<td valign="top" width="65%">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 2; min-width: 250px;">
 
 -    🎓 **Software Engineering Graduate** from Sri Lanka Institute of Information Technology (SLIIT)
 -    💻 Passionate Full Stack Developer and open-source enthusiast
 -    🤝 I love collaborating, sharing knowledge, and contributing to the open-source community
 -    🚀 Always eager to learn new technologies and best practices
--    <p>
-       <a href="mailto:manulakavinda.dev@gmail.com"><img src="https://img.shields.io/badge/-manulakavinda.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-       <a href="https://www.https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-brand-alt-logos-pack-icons-3094470.png?f=webp&w=256">
-         <img src="https://img.shields.io/badge/-[Linkedin]%20Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-       </a>
-     </p>
 
-</td>
-<td align="right" width="35%">
-  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
-</td>
-</tr>
-</table>
+<p>
+  <a href="mailto:manulakavinda.dev@gmail.com"><img src="https://img.shields.io/badge/-manulakavinda.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-brand-alt-logos-pack-icons-3094470.png?f=webp&w=256">
+    <img src="https://img.shields.io/badge/-[Linkedin]%20Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
+
+  </div>
+  <div style="flex: 1; min-width: 150px; text-align: right;">
+    <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
+  </div>
+</div>
 
 ---
 
