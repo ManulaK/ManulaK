@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Manula Kavinda
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 2; min-width: 150px;">
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <div style="flex: 2; min-width: 100px;">
 
 -    🎓 **Software Engineering Graduate** from Sri Lanka Institute of Information Technology (SLIIT)
 -    💻 Passionate Full Stack Developer and open-source enthusiast
@@ -16,8 +16,8 @@
 </p>
 
   </div>
-  <div style="flex: 1; min-width: 150px; text-align: right;">
-    <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
+  <div style="flex: 1; min-width: 100px; text-align: right;">
+    <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1020641/screenshots/6024780/media/e8651fc29d5a3c0f858130758d042f20.gif" />
   </div>
 </div>
 
