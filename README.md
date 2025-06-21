@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Manula Kavinda
 
-<table width="100%">
+<table width="100%" style="border: 1px solid transparent;">
 <tr>
 <td valign="top" width="65%">
 
