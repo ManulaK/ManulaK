@@ -10,8 +10,8 @@
 -    🚀 Always eager to learn new technologies and best practices
 -    <p>
        <a href="mailto:manulakavinda.dev@gmail.com"><img src="https://img.shields.io/badge/-manulakavinda.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-       <a href="https://www.linkedin.com/in/manulakavinda">
-         <img src="https://img.shields.io/badge/-Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+       <a href="https://www.https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-brand-alt-logos-pack-icons-3094470.png?f=webp&w=256">
+         <img src="https://img.shields.io/badge/-[Linkedin]%20Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
        </a>
      </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/ManulaK/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manula's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManulaK&theme=black-ice&hide_border=true&stroke=00FF00" width=450 />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manula's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManulaK&theme=black-ice&hide_border=true&stroke=FFF5733" width=450 />
     </a>
     <a href="https://github.com/ManulaK/github-readme-stats">
         <img alt="Manula's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManulaK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" width=325 height=175/>
