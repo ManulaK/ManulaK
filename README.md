@@ -11,7 +11,7 @@
 
 <p>
   <a href="mailto:manulakavinda.dev@gmail.com"><img src="https://img.shields.io/badge/-manulakavinda.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-brand-alt-logos-pack-icons-3094470.png?f=webp&w=256">
+  <a href="https://www.linkedin.com/in/manulakavinda/">
     <img src="https://img.shields.io/badge/-[Linkedin]%20Manula%20Kavinda-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
